@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Golang,
 - 👌 I Might Know: Python - for easy scripts, typescript - typiclly for frontend work, bash for better debugin, and lastly some java, c# and a little bit of cpp that i learned to better read logs of big softweres that run on these languages
 - 💞️ I’m looking to collaborate on: cool projects that allow devops enjoyers like me to do their work properly
-- 📫 How to reach me: you can email my current email rongamingstation@gmail.com
+- 📫 How to reach me: you can email my current email ronroitburg@gmail.com
 - ⚡ Fun fact: 
 ```
 i am currently honing my skills in python, golang and web develpoment projects that i work on in my spar time.
